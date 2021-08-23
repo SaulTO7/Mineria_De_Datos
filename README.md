@@ -1,5 +1,6 @@
 # Mineria_De_Datos
 FASE 1 
+ >[EXAMEN DIAGNOSICO](https://github.com/SaulTO7/Mineria_De_Datos/blob/main/Examen%20diagnostico%20SAUL%20TORRES.pdf)
  
  >[MAPA MENTAl](https://github.com/SaulTO7/Mineria_De_Datos/blob/main/MMAPA_MENTAL_SAUL_TORRES.pdf)
  
