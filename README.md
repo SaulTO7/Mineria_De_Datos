@@ -12,6 +12,12 @@ FASE 1
  
  >[AVANCE DE PIA](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Avance1_PIA_Equipo_9.ipynb)
 
+ FASE 1 
+
  >[PRESENTACION K-MEDIAS EQUIPO 9](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Presentacion_K-medias_Equipo9.pdf)
 
  >[CODIGO PRESENTACION K MEDIAS](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Ejemplo_K-medias_Equipo9.R)
+
+ >[VISUALIZACION 2](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Visualizacion_Equipo_9.ipynb)
+
+ >[AVANCE 2  PIA EQUIPO 9](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/AvancePIA_II_001_9.ipynb)
