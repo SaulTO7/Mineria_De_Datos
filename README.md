@@ -21,5 +21,7 @@ FASE 1
  >[VISUALIZACION 2](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Visualizacion_Equipo_9.ipynb)
 
  >[AVANCE 2  PIA EQUIPO 9](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/AvancePIA_II_001_9.ipynb)
+ >
  >[PIA AVANCE 2](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Avance2_PIA_Equipo_9_Corregido.ipynb)
+ >
  >[PRACTICA TECNICA PIA](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Pr%C3%A1ctica_t%C3%A9cnica_Equipo9.ipynb)
