@@ -27,4 +27,5 @@ FASE 1
  >[PRACTICA TECNICA PIA](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Pr%C3%A1ctica_t%C3%A9cnica_Equipo9.ipynb)
  >
  >[NOTEBOOK](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Notebook.ipynb)
+ >
  >[POSTER](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Poster_Mineria.pdf)
